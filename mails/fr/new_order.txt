@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Une nouvelle commande a été effectuée sur {shop_name}
+
+Détails de la commande
+
+Commande : {order_name} passée le {date}
+
+Paiement : {payment}
+
+Total payé : {total_paid}
+
+Détails du client
+
+Nom: {firstname} {lastname}
+
+Email: ({email})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
